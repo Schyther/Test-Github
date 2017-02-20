@@ -16,5 +16,10 @@ namespace AltNume
         {
             InitializeComponent();
         }
+
+        public Boolean isTrue(Boolean toBeTested)
+        {
+            return toBeTested;
+        }
     }
 }
